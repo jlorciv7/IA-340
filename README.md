@@ -18,3 +18,7 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 - Book: "Social Data Analytics in the Cloud with AI"
 - Teacher: Dr. Xuebin Wei
 - Teacher Contact Info: weixx@jmu.edu
+
+1.lab1(https://github.com/jlorciv7/IA-340/blob/main/lab1.ipynb)
+2.
+3.
